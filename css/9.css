@@ -1,0 +1,72 @@
+body{
+	background-color: #f7f7f7;
+}
+i{
+	font-style: normal;
+}
+header{
+	width: 100%;
+	height: 1rem;
+	background-color: #fc313a;
+	position: relative;
+	line-height: 1rem;
+	margin-bottom: 0.5rem;
+}
+.header_center{
+	display: block;
+	color: #fff;
+	font-size: 0.4rem;
+	text-align: center;
+	color: #fff;
+}
+.header_left{
+	position: absolute;
+	top: 0;
+	left: 0.25rem;
+	display: block;
+	font-size: 0.4rem;
+	color: #fed8d9;
+}
+.header_right{
+	position: absolute;
+	top: 0;
+	right: 0.26rem;
+	display: block;
+	font-size: 0.18rem;
+	color: #fed8d9;
+}
+.chepaihao{
+	width: 100%;
+	height: 0.73rem;
+	background-color: #fff;
+	padding-left: 26px;
+	border-bottom: 0.01rem solid #f7f7f7;
+
+}
+.cph{
+	display: block;
+	width: 0.7rem;
+	line-height: 0.74rem;
+	color: #171717;
+	font-size: 0.22rem;
+
+}
+.cph:last-child{
+	border-bottom: 0;
+}
+footer{
+	position: fixed;
+	bottom: 0.3rem;
+	left: 0.24rem;
+	width:7.03rem;
+	height: 0.69rem;
+	background: -webkit-linear-gradient(left,#fd313a,#fd7f33);
+	border-radius: 0.07rem;
+}
+footer>span{
+	display: block;
+	font-size: 0.26rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.69rem;
+}
