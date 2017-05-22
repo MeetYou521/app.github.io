@@ -1,0 +1,194 @@
+body{
+    font-family: 微软雅黑;
+}
+.clear{
+    content: "";
+    display: block;
+    clear: both;
+    width: 0;
+    height: 0;
+}
+/*顶部开始*/
+.lf_top{
+    width: 7.5rem;
+    height: 0.86rem;
+    background: #fc313a;
+}
+.neikuan{
+    width: 7rem;
+    height: auto;
+    margin: 0 auto;
+}
+.lf_top i{
+    font-size: 0.3rem;
+    color: #fff;
+    font-weight: bold;
+    font-style: normal;
+    float: left;
+    line-height: 0.86rem;
+}
+.lf_top h1{
+    font-size: 0.38rem;
+    color: #fff;
+    margin-left: 2.6rem;
+    margin-top: 0.18rem;
+    float: left;
+    font-weight: normal;
+}
+.lf_top .help{
+    float: right;
+    color: #fff;
+    font-size: 0.2rem;
+    line-height: 0.86rem;
+}
+.lf_top span{
+    font-family:  微软雅黑;
+}
+/*顶部结束*/
+/*banner开始*/
+.lf_banner{
+    width: 7.5rem;
+    height: 3.55rem;
+    background-image: url("../img/3/banner_03.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 7.5rem 3.55rem;
+}
+/*banner结束*/
+/*内容开始*/
+.lf_container{
+    width: 7.5rem;
+    height: auto;
+}
+.lf_container .conNav{
+    height: 0.96rem;
+    width: 7.5rem;
+    border-bottom: 0.01rem solid#fbfbfb;
+}
+.lf_container .conNav .item{
+    width: 3.75rem;
+    height: 0.88rem;
+    font-size: 0.3rem;
+    line-height: 0.88rem;
+    text-align: center;
+}
+.lf_container .conNav .item1{
+    float: left;
+    color: #000;
+    border-bottom: 0.05rem solid #fc313a;
+}
+.lf_container .conNav .item2{
+    float: right;
+    color:#a1a1a1;
+    background: #f7f7f7;
+    border-bottom: 0.02rem solid #e6e5e5;
+}
+.lf_container .message{
+    width: 7rem;
+    height: auto;
+}
+.lf_container .message .inner{
+    height: 2.39rem;
+    width: 100%;
+    border-bottom: 0.02rem solid#f5f5f5;
+    position: relative;
+}
+.lf_container .message .inner1{
+    border-bottom: 0;
+}
+.lf_container .message .inner .tiao1{
+    width: 0.06rem;
+    height: 0.02rem;
+    background: #aeaeae;
+    position: absolute;
+    left:0;
+    bottom:-0.01rem;
+}
+.lf_container .message .inner .tiao2{
+    width: 0.06rem;
+    height: 0.02rem;
+    background: #aeaeae;
+    position: absolute;
+    right:0;
+    bottom:-0.01rem;
+}
+.lf_container .message .inner .ziti{
+    margin-top:0.34rem ;
+    width:  3.2rem;
+    float: left;
+    height: auto;
+}
+.lf_container .message .inner .ziti .circle{
+    width: 0.25rem;
+    height: 0.25rem;
+    background: #fc313a;
+    border-radius: 50%;
+    color: #fff;
+    text-align: center;
+    line-height: 0.25rem;
+    font-size: 0.2rem;
+    float: left;
+}
+.lf_container .message .inner .ziti .neir{
+    width: 2.9rem;
+    height: auto;
+    margin-left: 0.38rem;
+}
+.lf_container .message .inner .ziti .neir h1{
+    font-size: 0.24rem;
+    color: #000;
+    font-weight: normal;
+}
+.lf_container .message .inner .ziti .neir p{
+    font-size: 0.21rem;
+    color: #e6e5e5;
+    margin:0;
+    padding:0;
+    margin-top: 0.05rem;
+    line-height: 0.4rem;
+}
+.lf_container .message .inner .img{
+    float: right;
+    margin-top:0.2rem;
+}
+.lf_container .message .inner .img img{
+    width: 2.67rem;
+    height: 2.11rem;
+}
+/*内容结束*/
+/*底部开始*/
+.lf_footer{
+    width: 7.5rem;
+    height: 1.28rem;
+    background: #f7f7f7;
+    padding-top: 0.29rem;
+}
+.lf_footer .ready{
+    width: 7rem;
+    height:0.7rem;
+    margin: 0 auto;
+    background: linear-gradient(to right,#fd313a 0,#fd8033 100%);
+    border-radius: 0.1rem;
+    text-align: center;
+    line-height: 0.7rem;
+    color: #fff;
+    font-size: 0.25rem;
+    position: relative;
+}
+.lf_footer .ready .yuan{
+    width: 0.12rem;
+    height: 0.12rem;
+    position: absolute;
+    top:0;
+}
+.lf_footer .ready .yuan img{
+    width: 0.12rem;
+    height: 0.12rem;
+}
+.lf_footer .ready .yuan1{
+    left:2.43rem;
+}
+.lf_footer .ready .yuan2{
+    right:2.43rem;
+}
+/*底部结束*/
