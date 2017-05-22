@@ -1,0 +1,90 @@
+header{
+	width: 100%;
+	height: 0.88rem;
+	background: #fc313a;
+	padding: 0 15px;
+	position: relative;
+}
+.jiantou{
+	font-size: 0.14rem;
+	color: #fff;
+	line-height: 0.88rem;
+	font-weight: bold;
+	float: left;
+}
+.title{
+	width: 2.45rem;
+	line-height: 0.88rem;
+	margin: 0 auto;
+	font-size: 0.4rem;
+	color: #fff;
+	font-family: 微软雅黑;
+}
+.save{
+	width: 0.5rem;
+	height: 0.88rem;
+	position: absolute;
+	top: 0;
+	right: 15px;
+	float: right;
+	line-height: 0.88rem;
+	font-size: 0.12rem;
+	color: #fff;
+}
+.intro{
+	width: 100%;
+	height: 0.8rem;
+	text-align: center;
+	line-height: 0.8rem;
+	font-size: 0.2rem;
+	color: #4a4a4a;
+}
+.content1{
+	width:100%;
+	/*overflow: hidden;*/
+	height: 3.2rem;
+	padding: 0 15px;
+}
+.head{
+	line-height: 0.8rem;
+	font-size: 0.24rem;
+	color: #4a4a4a;
+}
+.con{
+	width: 100%;
+	height: 100%;
+}
+.tu{
+	display: block;
+	width: 3.03rem;
+	height: auto;
+	float: left;
+}
+.info{
+	width: 3.6rem;
+	height: 2.4rem;
+	float: right;
+	position: relative;
+}
+.shang{
+	width: 100%;
+	line-height: 0.4rem;
+	font-size: 0.2rem;
+	color: #4a4a4a;
+}
+.shangchuan{
+	width: 1.78rem;
+	height: 0.76rem;
+	position: absolute;
+	left: 0;
+	top: 1.43rem;
+	border-radius:0.1rem;
+	background: #fc313a;
+	font-size: 0.2rem;
+	color: #fff;
+	line-height: 0.76rem;
+	text-align: center;
+}
+.shangchuan1{
+	top:1.2rem;
+}
