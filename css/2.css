@@ -1,0 +1,161 @@
+.daohang{
+	width: 7.5rem;
+	height: 0.87rem;
+	background-color: #fc313a;
+	border-top: 1px solid #fc313a;
+	font-size: 0.4rem;
+	text-align: center;
+	line-height: 0.88rem;
+	color: #fff;
+	font-family: 微软雅黑;
+}
+.zuokuohao{
+	width: 0.16rem;
+    height: 0.24rem;
+    margin-top: 0.32rem;
+    margin-left: 0.25rem;
+    font-size: 0.2rem;
+    line-height: 0.24rem;
+    color: #fff;
+    float: left;
+}
+.xuanze{
+	width: 7.5rem;
+	height: 0.65rem;background-color: #eee;
+}
+.zhdl,.sjdl{
+	width: 3.75rem;
+	height: 0.64rem;
+	border-bottom: 1px solid #000;
+	background-color: #fff;
+	float: left;
+	font-size: 0.24rem;
+	line-height: 0.64rem;
+	text-align: center;
+	color: #000;
+}
+.sjdl{
+	background-color: #eee;
+	height: 0.64rem;
+	border-bottom: 0px;
+}
+body{
+	background-color: #eee;
+}
+.zhanghao{
+	width: 7.5rem;
+	height: 0.73rem;
+    border-bottom: 1px solid #eee;
+    position: relative;
+}
+.zhanghao:last-child{
+	border-bottom: 0px;
+}
+.zuo,.you{
+	width: 0.06rem;
+	height: 1px;
+	background-color: #bfbfbf;
+	position: absolute;
+	top: 0.72rem;
+}
+.zuo{
+	left: 0px;
+}
+.you{
+	right: 0px;
+}
+.ming{
+	width: 0.72rem;
+	height: 0.72rem;
+	float: left;
+	font-size: 0.24rem;
+	line-height: 0.72rem;
+	text-align: center;
+	color: #000;
+	font-family: 微软雅黑;
+	background-color: #fff;
+}
+@font-face {
+  font-family: 'iconfont';
+  src: url('font_hyxitmwzubi3haor/iconfont.eot');
+  src: url('font_hyxitmwzubi3haor/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('font_hyxitmwzubi3haor/iconfont.woff') format('woff'),
+  url('font_hyxitmwzubi3haor/iconfont.ttf') format('truetype'),
+  url('font_hyxitmwzubi3haor/iconfont.svg#iconfont') format('svg');
+}
+.iconfont{
+  font-family:"iconfont" !important;
+  font-size:0.24rem;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+input{
+	width: 6.78rem;
+	height: 0.72rem;
+	float: left;
+	border:0px;
+	font-size: 0.24rem;
+	font-family: 微软雅黑;
+	color: #eee;
+}
+.kong{
+	width: 7.5rem;
+	height: 8.3rem;
+	background-color: #eee;
+	position: relative;
+}
+.zhuce{
+	width: 7rem;
+	height: 0.7rem;
+	border-radius: 0.2rem;
+	position: absolute;
+	left: 0.25rem;
+	top: 0.48rem;
+	background: linear-gradient(90deg,#fd313a 0%,#fd7f33 100%);
+	color: #fff;
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.7rem;
+	font-family: 微软雅黑;
+}
+.zuodian,.youdian{
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background-color: #fff;
+	box-shadow: 0 0 12px 3px #fff;
+	position: absolute;
+	top: 0.29rem;
+}
+.zuodian{
+	left: 2.6rem;
+}
+.youdian{
+	right: 2.6rem;
+}
+.tishi{
+	width: 7.1rem;
+	height: 0.22rem;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: 1.5rem auto;
+	font-size: 0.21rem;
+	font-family: 微软雅黑;
+	color: #bebebe;
+}
+.tishi1,.tishi2{
+	width: 2rem;
+	height: 0.22rem;
+	font-size: 0.21rem;
+	font-family: 微软雅黑;
+	color: #bebebe;
+	position: absolute;
+	left: 0;
+}
+.tishi2{
+	width: 0.9rem;
+	position: absolute;
+	left: 6.2rem;
+}

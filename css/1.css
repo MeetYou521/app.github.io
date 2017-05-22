@@ -1,0 +1,129 @@
+.daohang{
+	width: 7.5rem;
+	height: 0.87rem;
+	background-color: #fc313a;
+	border-top: 1px solid #fc313a;
+	font-size: 0.4rem;
+	text-align: center;
+	line-height: 0.88rem;
+	color: #fff;
+	font-family: 微软雅黑;
+}
+.zuokuohao{
+	width: 0.16rem;
+    height: 0.24rem;
+    margin-top: 0.32rem;
+    margin-left: 0.25rem;
+    font-size: 0.2rem;
+    line-height: 0.24rem;
+    color: #fff;
+    float: left;
+}
+.zhucebiao{
+	width: 7.5rem;
+	height: 3.7rem;
+	padding: 0rem 0.2rem 0rem 0.2rem;
+	background-color: #fff;
+	
+}
+body{
+	background-color: #eee;
+}
+.zhanghao{
+	width: 7.1rem;
+	height: 0.73rem;
+    border-bottom: 1px solid #eee;
+    position: relative;
+}
+.zhanghao:last-child{
+	border-bottom: 0px;
+}
+.zuo,.you{
+	width: 0.06rem;
+	height: 1px;
+	background-color: #bfbfbf;
+	position: absolute;
+	top: 0.72rem;
+}
+.zuo{
+	left: 0px;
+}
+.you{
+	right: 0px;
+}
+.ming{
+	width: 1.2rem;
+	height: 0.72rem;
+	float: left;
+	font-size: 0.24rem;
+	line-height: 0.72rem;
+	color: #000;
+	font-family: 微软雅黑;
+}
+input{
+	width: 5.76rem;
+	height: 0.72rem;
+	float: left;
+	border:0px;
+	font-size: 0.24rem;
+	font-family: 微软雅黑;
+	color: #eee;
+}
+.yanzheng{
+	position: absolute;
+	right: 0.14rem;
+	top: 0.12rem;
+	width: 1.5rem;
+	height: 0.44rem;
+	border:0.02rem solid #bbbbbb;
+	border-radius: 0.1rem;
+	background-color: #fff;
+	color: #000;
+	line-height: 0.4rem;
+}
+.kong{
+	width: 7.5rem;
+	height: 8.3rem;
+	background-color: #eee;
+	position: relative;
+}
+.zhuce{
+	width: 7rem;
+	height: 0.7rem;
+	border-radius: 0.2rem;
+	position: absolute;
+	left: 0.25rem;
+	top: 0.48rem;
+	background: linear-gradient(90deg,#fd313a 0%,#fd7f33 100%);
+	color: #fff;
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.7rem;
+	font-family: 微软雅黑;
+}
+.zuodian,.youdian{
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background-color: #fff;
+	box-shadow: 0 0 12px 3px #fff;
+	position: absolute;
+	top: 0.29rem;
+}
+.zuodian{
+	left: 2.6rem;
+}
+.youdian{
+	right: 2.6rem;
+}
+.tishi{
+	width: 4.4rem;
+	height: 0.22rem;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: 1.5rem auto;
+	font-size: 0.21rem;
+	font-family: 微软雅黑;
+	color: #bebebe;
+}
