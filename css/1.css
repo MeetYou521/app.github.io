@@ -106,15 +106,32 @@ input{
 	height: 6px;
 	border-radius: 50%;
 	background-color: #fff;
-	box-shadow: 0 0 12px 3px #fff;
+	/*box-shadow: 0 0 12px 3px #fff;*/
+	position: absolute;
+	top: 0.32rem;
+	opacity: 1;
+	z-index: 5;
+}
+.zuodian{
+	left: 2.57rem;
+}
+.youdian{
+	right: 2.57rem;
+}
+.zuod,.youd{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+	background-color: #fff;
+	opacity: 0.5;
 	position: absolute;
 	top: 0.29rem;
 }
-.zuodian{
-	left: 2.6rem;
+.zuod{
+	left: 2.54rem;
 }
-.youdian{
-	right: 2.6rem;
+.youd{
+	right: 2.54rem;
 }
 .tishi{
 	width: 4.4rem;
